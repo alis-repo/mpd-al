@@ -53,7 +53,7 @@ build() {
       --enable-opus \
       --disable-lsr \
       --enable-soxr \
-      --disable-aac
+      --enable-aac
 
   make
 }
